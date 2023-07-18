@@ -1,0 +1,194 @@
+﻿@model SectionModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="py-5 text-center">
+	<h2 class="display-">Be Compare text</h2>
+	<p class="lead mb-3">Diffchecker will compare text to find the difference between two text files.Just paste your files and click Find Difference</p>	
+</div>
+<div class="container">
+	<ul class="dropdown-menu position-static d-grid gap-1 p-2 rounded-3 mx-0 shadow w-220px">
+		<div class="row">
+			<div class="col-md-6 col-lg-6 order-md-last">
+				<ul class="list-group mb-6">
+					<li class="list-group-item d-flex justify-content-between lh-sm">
+						<div>
+							<h6 class="my-0">Total Worlds</h6>
+						</div>
+						<span class="text-body-secondary">12</span>
+					</li>
+					<li class="list-group-item d-flex justify-content-between lh-sm">
+						<div>
+							<h6 class="my-0">Total Typed Worlds</h6>
+						</div>
+						<span class="text-body-secondary">8</span>
+					</li>
+					<li class="list-group-item d-flex justify-content-between lh-sm">
+						<div>
+							<h6 class="my-0">Missed Worlds</h6>
+						</div>
+						<span class="text-body-secondary">5</span>
+					</li>
+				</ul>
+			</div>
+			<div class="col-md-6 col-lg-6 order-md-last">
+				<ul class="list-group mb-6">
+					<li class="list-group-item d-flex justify-content-between lh-sm">
+						<div>
+							<h6 class="my-0">Half Mistakes</h6>
+						</div>
+						<span class="text-body-secondary">12</span>
+					</li>
+					<li class="list-group-item d-flex justify-content-between lh-sm">
+						<div>
+							<h6 class="my-0">Full Mistakes</h6>
+						</div>
+						<span class="text-body-secondary">8</span>
+					</li>
+					<li class="list-group-item d-flex justify-content-between lh-sm">
+						<div>
+							<h6 class="my-0">Total Mistakes</h6>
+						</div>
+						<span class="text-body-secondary">5</span>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</ul>
+
+	<hr />
+	@if (@TempData["msg"]!=null)
+	{
+		<div class="alert alert-danger" role="alert">
+			@TempData["msg"]
+		</div>
+	}
+	
+	
+	<form action="/Home/Index" method="post">
+        <div class="form-group">
+        	@*<div class="row">
+        		<div class="col-lg-12">
+        			<label for="resultTextarea">Result</label>
+        			<textarea asp-for="resultSection" class="form-control float-right minHeight80" id="resultTextarea" aria-describedby="right area" placeholder="Enter your desired text" rows="10" name="Text" value=""></textarea>
+        		</div>
+        	</div>*@
+        	<div class="row">
+        		<div class="col-lg-6">
+        		<label for="leftTextarea">Left</label>
+        			<textarea asp-for="leftSection" class="form-control float-left minHeight80" id="leftTextarea" aria-describedby="left area" placeholder="Enter your desired text" rows="10" name="leftTextarea" value=""></textarea>
+        
+        	     </div>
+        	    <div class="col-lg-6">
+        	    	<label for="leftTextarea">Right</label>
+					<textarea asp-for="rightSection" class="form-control float-right minHeight80" id="rightTextarea" aria-describedby="right area" placeholder="Enter your desired text" rows="10" name="rightTextarea" value=""></textarea>
+        	    </div>
+        	</div>
+        	<br />
+        	   <div class="row">
+        		<div class="col-lg-6">
+        				<input class="btn btn-primary" type="submit" value="Compare !">
+        		</div>
+        	   </div>	
+        </div>
+</form>
+</div>
+
+
+<script>
+	//onclick = "startCompare()
+	var leftPartArr = [];
+	var rightPartArr = [];
+	$(document).ready(() => {
+		initializeCKEditor();
+		//setTimeout(()=>{
+		//	loadData();
+		//},1000)
+	})
+	function applyCkEditor(...items) {
+		for (var key in items) {
+			CKEDITOR.replace(items[key], {
+				height: 250
+			});
+		}
+	}
+	function initializeCKEditor() {
+		CKEDITOR.editorConfig = function (config) {
+			config.colorButton_foreStyle = {
+				element: 'font',
+				attributes: { 'color': '#(color)' },
+
+			};
+
+			config.colorButton_backStyle = {
+				element: 'font',
+				styles: { 'background-color': '#(color)' }
+			};
+		}
+		applyCkEditor('leftTextarea', 'rightTextarea'/*, 'resultTextarea'*/);
+	}
+
+
+
+
+
+	//function startCompare() {
+	//	var leftLines;
+	//	var rightLines;
+	//	var finalString = "";
+	//	var left = CKEDITOR.instances['leftTextarea'].getData();
+	//	var right = CKEDITOR.instances['rightTextarea'].getData(); // $('#rightTextarea').val();
+
+	//	leftLines = left.split('\n');
+	//	rightLines = right.split('\n');
+
+	//	for (var i = 0; i < leftLines.length; i++) {
+	//		var wordArray = leftLines[i].split(" ");
+	//		for (var j = 0; j < wordArray.length; j++) {
+	//			leftPartArr.push(wordArray[j]);
+	//		}
+	//	}
+	//	for (var i = 0; i < rightLines.length; i++) {
+	//		var wordArray = rightLines[i].split(" ");
+	//		for (var j = 0; j < wordArray.length; j++) {
+	//			rightPartArr.push(wordArray[j]);
+	//		}
+	//	}
+
+	//	debugger;
+	//	var loopsCount = 0;
+	//	if (leftPartArr < rightPartArr) {
+	//		loopsCount = rightPartArr.length;
+	//	} else {
+	//		loopsCount = leftPartArr.length;
+	//	}
+
+	//	for (var j = 0; j < loopsCount - 1; j++) {
+	//		debugger;
+	//		finalString += compareWord(leftPartArr[j], rightPartArr[j]);
+	//	}
+	//	CKEDITOR.instances['resultTextarea'].setData("")
+	//	CKEDITOR.instances['resultTextarea'].setData(finalString)
+	//	//console.log(finalString)
+	//}
+
+	//function compareWord(leftPart, RightPart) {
+	//	if (leftPart.toLowerCase() == RightPart.toLowerCase()) {
+	//		return leftPart + " ";
+	//	} else {
+	//		return '<font style="background-color:#FFA50096">' + RightPart + '</font>';
+	//	}
+	//}
+
+
+
+	function loadData(){
+		var str = "";
+		str = "LEFT RIGHT UP #$%^ (*& DOWN ."
+		//str += "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+		//str += "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+		CKEDITOR.instances['leftTextarea'].setData(str)
+	}
+</script>

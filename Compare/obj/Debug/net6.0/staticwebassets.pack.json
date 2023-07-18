@@ -1,0 +1,1525 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Compare.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Compare.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\build-config.js",
+      "PackagePath": "staticwebassets\\build-config.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\ckeditor.js",
+      "PackagePath": "staticwebassets\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\config.js",
+      "PackagePath": "staticwebassets\\config.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\contents.css",
+      "PackagePath": "staticwebassets\\contents.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\colordialog\\dialogs\\colordialog.css",
+      "PackagePath": "staticwebassets\\plugins\\colordialog\\dialogs\\colordialog.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\colordialog\\dialogs\\colordialog.js",
+      "PackagePath": "staticwebassets\\plugins\\colordialog\\dialogs\\colordialog.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\copyformatting\\cursors\\cursor-disabled.svg",
+      "PackagePath": "staticwebassets\\plugins\\copyformatting\\cursors\\cursor-disabled.svg"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\copyformatting\\cursors\\cursor.svg",
+      "PackagePath": "staticwebassets\\plugins\\copyformatting\\cursors\\cursor.svg"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\copyformatting\\styles\\copyformatting.css",
+      "PackagePath": "staticwebassets\\plugins\\copyformatting\\styles\\copyformatting.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\div\\dialogs\\div.js",
+      "PackagePath": "staticwebassets\\plugins\\div\\dialogs\\div.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\LICENSE.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\README.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\README.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\plugindefinition.js",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\plugindefinition.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\_helpers\\tools.js",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\_helpers\\tools.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\authentication.js",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\authentication.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\exportpdf.js",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\exportpdf.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\configfilename.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\configfilename.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\configfilename.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\configfilename.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\integration.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\integration.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\integration.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\integration.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\notifications.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\notifications.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\notifications.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\notifications.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\paperformat.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\paperformat.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\paperformat.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\paperformat.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\readonly.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\readonly.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\readonly.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\readonly.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\stylesheets.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\stylesheets.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\stylesheets.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\stylesheets.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\notification.js",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\notification.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\resourcespaths.js",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\resourcespaths.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\statistics.js",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\statistics.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\exportpdf\\tests\\stylesheets.js",
+      "PackagePath": "staticwebassets\\plugins\\exportpdf\\tests\\stylesheets.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\find\\dialogs\\find.js",
+      "PackagePath": "staticwebassets\\plugins\\find\\dialogs\\find.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\dialogs\\button.js",
+      "PackagePath": "staticwebassets\\plugins\\forms\\dialogs\\button.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\dialogs\\checkbox.js",
+      "PackagePath": "staticwebassets\\plugins\\forms\\dialogs\\checkbox.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\dialogs\\form.js",
+      "PackagePath": "staticwebassets\\plugins\\forms\\dialogs\\form.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\dialogs\\hiddenfield.js",
+      "PackagePath": "staticwebassets\\plugins\\forms\\dialogs\\hiddenfield.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\dialogs\\radio.js",
+      "PackagePath": "staticwebassets\\plugins\\forms\\dialogs\\radio.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\dialogs\\select.js",
+      "PackagePath": "staticwebassets\\plugins\\forms\\dialogs\\select.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\dialogs\\textarea.js",
+      "PackagePath": "staticwebassets\\plugins\\forms\\dialogs\\textarea.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\dialogs\\textfield.js",
+      "PackagePath": "staticwebassets\\plugins\\forms\\dialogs\\textfield.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\forms\\images\\hiddenfield.gif",
+      "PackagePath": "staticwebassets\\plugins\\forms\\images\\hiddenfield.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\plugins\\icons.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\iframe\\dialogs\\iframe.js",
+      "PackagePath": "staticwebassets\\plugins\\iframe\\dialogs\\iframe.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\iframe\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\plugins\\iframe\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\liststyle\\dialogs\\liststyle.js",
+      "PackagePath": "staticwebassets\\plugins\\liststyle\\dialogs\\liststyle.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\pagebreak\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\plugins\\pagebreak\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\preview\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\plugins\\preview\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\preview\\preview.html",
+      "PackagePath": "staticwebassets\\plugins\\preview\\preview.html"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\preview\\styles\\screen.css",
+      "PackagePath": "staticwebassets\\plugins\\preview\\styles\\screen.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_address.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_address.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_blockquote.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_blockquote.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_div.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_div.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_h1.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_h1.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_h2.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_h2.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_h3.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_h3.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_h4.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_h4.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_h5.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_h5.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_h6.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_h6.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_p.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_p.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\showblocks\\images\\block_pre.png",
+      "PackagePath": "staticwebassets\\plugins\\showblocks\\images\\block_pre.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\dialogs\\smiley.js",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\dialogs\\smiley.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\angel_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\angel_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\angel_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\angel_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\angry_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\angry_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\angry_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\angry_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\broken_heart.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\broken_heart.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\broken_heart.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\broken_heart.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\confused_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\confused_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\confused_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\confused_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\cry_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\cry_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\cry_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\cry_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\devil_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\devil_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\devil_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\devil_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\embaressed_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\embaressed_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\embarrassed_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\embarrassed_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\embarrassed_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\embarrassed_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\envelope.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\envelope.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\envelope.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\heart.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\heart.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\heart.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\heart.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\kiss.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\kiss.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\kiss.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\kiss.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\lightbulb.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\lightbulb.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\lightbulb.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\omg_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\omg_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\omg_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\omg_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\regular_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\regular_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\regular_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\regular_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\sad_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\sad_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\sad_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\sad_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\shades_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\shades_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\shades_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\shades_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\teeth_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\teeth_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\teeth_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\teeth_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\thumbs_down.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\thumbs_down.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\thumbs_down.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\thumbs_down.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\thumbs_up.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\thumbs_up.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\thumbs_up.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\thumbs_up.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\tongue_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\tongue_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\tongue_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\tongue_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\tounge_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\tounge_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\whatchutalkingabout_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\whatchutalkingabout_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\wink_smile.gif",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\wink_smile.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\smiley\\images\\wink_smile.png",
+      "PackagePath": "staticwebassets\\plugins\\smiley\\images\\wink_smile.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\templates\\dialogs\\templates.css",
+      "PackagePath": "staticwebassets\\plugins\\templates\\dialogs\\templates.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\templates\\dialogs\\templates.js",
+      "PackagePath": "staticwebassets\\plugins\\templates\\dialogs\\templates.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\templates\\templatedefinition.js",
+      "PackagePath": "staticwebassets\\plugins\\templates\\templatedefinition.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\templates\\templates\\default.js",
+      "PackagePath": "staticwebassets\\plugins\\templates\\templates\\default.js"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\templates\\templates\\images\\template1.gif",
+      "PackagePath": "staticwebassets\\plugins\\templates\\templates\\images\\template1.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\templates\\templates\\images\\template2.gif",
+      "PackagePath": "staticwebassets\\plugins\\templates\\templates\\images\\template2.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\templates\\templates\\images\\template3.gif",
+      "PackagePath": "staticwebassets\\plugins\\templates\\templates\\images\\template3.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "D:\\BeCompare\\Compare\\Compare\\wwwroot\\styles.js",
+      "PackagePath": "staticwebassets\\styles.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Compare.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Compare.props",
+      "PackagePath": "build\\Compare.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Compare.props",
+      "PackagePath": "buildMultiTargeting\\Compare.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Compare.props",
+      "PackagePath": "buildTransitive\\Compare.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

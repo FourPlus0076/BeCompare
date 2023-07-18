@@ -1,0 +1,7 @@
+D:\BeCompare\Compare\Compare\obj\Release\net6.0\PubTmp\Out\Compare.exe
+D:\BeCompare\Compare\Compare\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\BeCompare\Compare\Compare\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\BeCompare\Compare\Compare\obj\Release\net6.0\PubTmp\Out\Compare.dll
+D:\BeCompare\Compare\Compare\obj\Release\net6.0\PubTmp\Out\Compare.deps.json
+D:\BeCompare\Compare\Compare\obj\Release\net6.0\PubTmp\Out\Compare.runtimeconfig.json
+D:\BeCompare\Compare\Compare\obj\Release\net6.0\PubTmp\Out\Compare.pdb
